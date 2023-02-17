@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+nav {
+  border: 1px;
+  background-color: green;
+  color: white;
+  padding: 6px;
+}
